@@ -52,7 +52,7 @@ Efficient use of SliverGridDelegate for smooth scrolling.
 
 # Demo
 
-[GIF Description](https://github.com/GeethDasanayakeGD/Flutter_bookStoer-StoryNest-/Demo.gif)
+https://github.com/GeethDasanayakeGD/Flutter_bookStoer-StoryNest-/Demo.gif
 
 # Installation 🚀
 
